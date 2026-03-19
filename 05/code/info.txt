@@ -1,0 +1,83 @@
+S → B1 (2)
+S → C (4)
+S → B2 (4)
+
+B1 → G (5)
+B1 → C (5)
+
+B2 → C (1)
+
+C → G (3)
+C → F (3)
+
+F → B2 (1)
+
+E → B2 (4)
+
+G → C (2)
+-----------------------
+python list:
+graph = {
+    'S': [('B1',2), ('C',4), ('B2',4)],
+    'B1': [('G',5), ('C',5)],
+    'B2': [('C',1)],
+    'C': [('G',3), ('F',3)],
+    'F': [('B2',1)],
+    'E': [('B2',4)],
+    'G': [('C',2)]
+}
+
+
+----------------------
+DFS:
+Path: ['S', 'B2', 'C', 'G']
+Expanded Nodes: 4
+
+BFS:
+Path: ['S', 'B1', 'G']
+Expanded Nodes: 3
+
+A* Search:
+Path: ['S', 'C', 'G']
+Total Cost: 7
+Expanded Nodes: 3
+
+----------------------
+
+| Feature          | DFS                          | BFS                        | A*                              |
+| ---------------- | ---------------------------- | -------------------------- | ------------------------------- |
+| Data Structure   | Stack                        | Queue                      | Priority Queue                  |
+| Search Style     | Deep first                   | Level by level             | Best-first                      |
+| Completeness     | No (may miss shortest path)  | Yes                        | Yes                             |
+| Optimality       | No                           | Yes (unweighted graph)     | Yes (with admissible heuristic) |
+| Time Complexity  | O(V + E)                     | O(V + E)                   | O(E log V)                      |
+| Space Complexity | O(V)                         | O(V)                       | O(V)                            |
+| Use Cases        | Puzzle solving, backtracking | Shortest path (unweighted) | AI pathfinding                  |
+
+
+---------------------
+Real-World Uses
+
+DFS:
+
+Maze solving
+
+Backtracking problems
+
+Cycle detection
+
+BFS:
+
+Social network distance
+
+Network broadcasting
+
+Shortest path (unweighted)
+
+A*:
+
+Google Maps navigation
+
+Game AI pathfinding
+
+Robotics navigation
