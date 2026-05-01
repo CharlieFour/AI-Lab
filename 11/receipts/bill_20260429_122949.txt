@@ -1,0 +1,35 @@
+
+╔══════════════════════════════════════════════════════════╗
+║                    🧾 SMART BILLING                      ║
+║                     AI Powered System                    ║
+╚══════════════════════════════════════════════════════════╝
+
+📅 Date & Time : 29-04-2026  12:29 PM
+👤 Customer     : ABDUL RAFAY
+📞 Contact      : 00987654112
+
+──────────────────────────────────────────────────────────
+🛒 ITEM DETAILS
+──────────────────────────────────────────────────────────
+   Item        : French Fries
+   Price       : ₹150
+   Quantity    : 12
+   ─────────────────────────────────
+   Subtotal    : ₹1800.00
+
+💰 DISCOUNT INFO
+   🏆 Bulk purchase discount (10%)
+   Discount    : 10%  ( -₹180.00 )
+
+──────────────────────────────────────────────────────────
+💵 FINAL TOTAL : ₹1620.00
+──────────────────────────────────────────────────────────
+
+
+
+🤖 AI Suggestion: ✨ Explore our combos for best savings!
+
+✨ Thank you for visiting!
+⭐ Please come again!
+
+        

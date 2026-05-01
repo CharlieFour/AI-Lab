@@ -1,0 +1,33 @@
+
+========================================
+        SMART BILLING SYSTEM
+        (AI Powered)
+========================================
+
+Date & Time : 01-05-2026  07:34 PM
+Customer    : ABDUL RAFAY
+Contact     : 03123456789
+
+----------------------------------------
+ITEM DETAILS
+----------------------------------------
+Item        : Sandwich
+Price       : Rs 250
+Quantity    : 1
+----------------------------------------
+Subtotal    : Rs 250.00
+
+DISCOUNT INFO
+No discount applied
+Discount    : 0%  ( - Rs 0.00 )
+----------------------------------------
+FINAL TOTAL : Rs 250.00
+----------------------------------------
+
+
+
+AI Suggestion: 🥪 Pair with Fresh Juice for a healthy meal!
+
+Thank you for visiting!
+Please come again!
+========================================

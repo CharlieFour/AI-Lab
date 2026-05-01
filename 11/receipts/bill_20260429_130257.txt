@@ -1,0 +1,33 @@
+
+========================================
+        SMART BILLING SYSTEM
+        (AI Powered)
+========================================
+
+Date & Time : 29-04-2026  01:02 PM
+Customer    : ABDUL RAFAY
+Contact     : 03123456789
+
+----------------------------------------
+ITEM DETAILS
+----------------------------------------
+Item        : Cookie
+Price       : Rs 480
+Quantity    : 1
+----------------------------------------
+Subtotal    : Rs 480.00
+
+DISCOUNT INFO
+No discount applied
+Discount    : 0%  ( - Rs 0.00 )
+----------------------------------------
+FINAL TOTAL : Rs 480.00
+----------------------------------------
+
+
+
+AI Suggestion: ✨ Explore our combos for best savings!
+
+Thank you for visiting!
+Please come again!
+========================================
